@@ -1,0 +1,62 @@
+[
+    {
+      "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+      "rating": 4.8,
+      "genero": "Aventura, Fantasía",
+      "tags": ["aventura", "fantasía", "acción", "épico"]
+    },
+    {
+      "titulo": "La Lista de Schindler",
+      "rating": 7.9,
+      "genero": "Drama, Historia",
+      "tags": ["drama", "historia", "guerra", "biografía"]
+    },
+    {
+      "titulo": "El Padrino",
+      "rating": 9.2,
+      "genero": "Crimen, Drama",
+      "tags": ["crimen", "drama", "mafia", "clásico"]
+    },
+    {
+      "titulo": "La Matrix",
+      "rating": 7.7,
+      "genero": "Ciencia Ficción, Acción",
+      "tags": ["ciencia ficción", "acción", "aventura", "filosofía"]
+    },
+    {
+      "titulo": "El Club de la Lucha",
+      "rating": 6.8,
+      "genero": "Drama, Thriller",
+      "tags": ["drama", "thriller", "sátira", "psicología"]
+    },
+    {
+      "titulo": "La Vida de los Otros",
+      "rating": 5.1,
+      "genero": "Drama, Thriller",
+      "tags": ["drama", "thriller", "espionaje", "historia"]
+    },
+    {
+      "titulo": "El Silencio de los Corderos",
+      "rating": 3.6,
+      "genero": "Thriller, Crimen",
+      "tags": ["thriller", "crimen", "psicología", "suspense"]
+    },
+    {
+      "titulo": "La Jungla de Cristal",
+      "rating": 8.1,
+      "genero": "Acción, Thriller",
+      "tags": ["acción", "thriller", "aventura", "policía"]
+    },
+    {
+      "titulo": "El Buen, el Malo y el Feo",
+      "rating": 8.8,
+      "genero": "Western, Aventura",
+      "tags": ["western", "aventura", "acción", "clásico"]
+    },
+    {
+      "titulo": "Pulp Fiction",
+      "rating": 9.2,
+      "genero": "Crimen, Drama",
+      "tags": ["crimen", "drama", "mafia", "clásico", "sátira"]
+    }
+  ]
